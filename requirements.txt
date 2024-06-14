@@ -2,3 +2,5 @@ streamlit
 langchain
 langchain-community
 openai
+qdrant_client
+PyPDF2
